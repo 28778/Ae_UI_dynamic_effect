@@ -35,4 +35,4 @@
 ```
 
 ## 项目快照
-
+![未标题-1](https://github.com/28778/Ae_UI_dynamic_effect/assets/31039562/db551e07-f7b9-46d4-9d6c-32a343cbf4d9)
